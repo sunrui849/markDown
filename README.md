@@ -42,6 +42,7 @@
 2. 有序列表一
 4. 有序列表一
 # 字体
+> 暂不支持颜色字号字体，已在vscode上验证过
 ## 加粗
 **加粗字体1**
 
@@ -103,7 +104,7 @@ public class ClassDemo{
 项目|项目一|项目二
 项目|项目一|项目二
 项目|项目一|项目二
-## html表格 设置背景色
+## html表格 设置背景色，github不支持颜色
 <table bgcolor=yellow>
     <tr bgcolor=blue>
         <td bgcolor=red>表头</td>
